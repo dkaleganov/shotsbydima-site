@@ -1,0 +1,1 @@
+import"./jsx-runtime.DXco-PnT.js";globalThis.process??={};globalThis.process.env??={};function t({heading:e="Ready for a headshot that opens doors?",subheading:o="Book an on-location Bay Area session, expertly directed, professionally retouched, and delivered in days.",ctaText:a="Book a Session",ctaHref:n="/contact"}){return null}export{t as C};

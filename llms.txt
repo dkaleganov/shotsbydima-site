@@ -1,0 +1,41 @@
+# Shots by Dima
+
+> Premium on-location executive headshots and creative portraits across San Jose and the San Francisco Bay Area.
+
+Shots by Dima provides premium on-location executive headshot and creative portrait photography across San Jose and the San Francisco Bay Area. Dima Kaleganov specializes in executive headshots, LinkedIn portraits, team and corporate headshot days, personal branding portraits, and editorial black-and-white portrait stations for events.
+
+Use the linked canonical pages below for current service details, location coverage, preparation guidance, and pricing. For crawler permissions and content-use policy, see `/robots.txt`.
+
+## Primary Services and Information
+
+- [Home](https://shotsbydima.com/): Overview of executive headshots, creative portraits, team photography, and Bay Area coverage.
+- [Executive Headshots](https://shotsbydima.com/headshots): Premium individual and team headshots photographed on location across the Bay Area.
+- [LinkedIn Headshots](https://shotsbydima.com/linkedin-headshots-bay-area): Profile-ready LinkedIn photography with expression coaching and retouched delivery in 3–5 business days.
+- [Creative Portraits](https://shotsbydima.com/creative-portraits): Modern personal-branding and editorial portrait sessions.
+- [Corporate and Event Portrait Station](https://shotsbydima.com/corporate-events-weddings): On-site editorial black-and-white portrait station for corporate events, summits, galas, and weddings.
+- [Pricing](https://shotsbydima.com/pricing): On-location headshot and creative portrait session pricing, plus custom team and corporate options.
+- [Headshot Preparation Guide](https://shotsbydima.com/photoshoot-preparation): What to wear, what to bring, and how to prepare for a professional headshot session.
+- [About Dima](https://shotsbydima.com/about): Background and approach of photographer Dima Kaleganov, currently at Microsoft AI and previously at Google.
+- [Contact](https://shotsbydima.com/contact): Photoshoots are temporarily paused. I'm not accepting new session requests at the moment.
+
+## Bay Area Location Pages
+
+- [Headshots in San Jose](https://shotsbydima.com/headshots-san-jose): Local professional and executive headshot services in San Jose.
+- [Headshots in Santa Clara](https://shotsbydima.com/headshots-santa-clara): Professional headshots for individuals and teams in Santa Clara.
+- [Headshots in Sunnyvale](https://shotsbydima.com/headshots-sunnyvale): Professional headshots for individuals and teams in Sunnyvale.
+- [Headshots in Mountain View](https://shotsbydima.com/headshots-mountain-view): Professional headshots for individuals and teams in Mountain View.
+- [Headshots in Palo Alto](https://shotsbydima.com/headshots-palo-alto): Professional headshots for individuals and teams in Palo Alto.
+
+## Creative Portrait Collections
+
+- [Dancer and Actor Portraits](https://shotsbydima.com/dancers-actors): Creative portraits and portfolio imagery for performers.
+- [Valentine Portraits](https://shotsbydima.com/valentines): Valentine-themed portrait collection.
+- [Western Portraits](https://shotsbydima.com/western): Western-themed creative portrait collection.
+- [Lunar New Year Portraits](https://shotsbydima.com/lunar-new-year): Lunar New Year portrait collection.
+- [Spring Portraits](https://shotsbydima.com/spring): Seasonal spring portrait collection.
+- [Celebration Portraits](https://shotsbydima.com/celebration): Celebration portrait collection.
+
+## Discovery
+
+- [XML Sitemap](https://shotsbydima.com/sitemap-index.xml): Complete canonical URL inventory.
+- [Robots and AI-use Policy](https://shotsbydima.com/robots.txt): Search crawler and AI content-use directives.
